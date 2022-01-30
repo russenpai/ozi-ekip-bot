@@ -1,0 +1,34 @@
+{
+  "token": "ODY5MTk3OTI0NzI5NDk5NjY4.YP6tpg.tokeniyenilemistimmq",
+  "prefix": [".","!","s!"],
+  "guildID": "830565831845871627",
+  "mongoUrl": " ",
+  "owners": ["612688335944679600","",""],
+  "botDurum": "† Shéw Developed by OZİ",
+  "botSes": "855159787905089537",
+  "registerPerm": "855159731176865812",
+
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+
+  "messageCount": 1,
+  "messageCoin": 2,
+  "voiceCount": 1,
+  "voiceCoin": 4,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+ 
+  "banlimit": 3,
+  "jaillimit": 3,
+  "warnlimit": 3,
+  "chatmutelimit": 3,
+  "voicemutelimit": 3
+}
